@@ -3,9 +3,11 @@
 > **Disclaimer**  
 > This project was developed as part of my personal learning. While I may have consulted various educational resources (such as tutorials, documentation, blog posts, or videos) during its creation, I do not recall all specific sources. All code has been independently written and reflects my own understanding of the topic unless explicitly stated. Any resemblance to existing material is unintentional or stems from common practices in the field.
 
+
 > Acknowledgments:  
 > - [3Blue1Brown’s Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
 > - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
+> - Finally, I would also like to acknowledge that ChatGPT was used to help teach concepts and used to help debug code. When used it was used in a teaching capacity.
 
 ## Overview
 
